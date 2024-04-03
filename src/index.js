@@ -4,4 +4,4 @@ import './index.css'
 import Primeiro from "./components/basicos/Primeiro";
 
 const element = document.getElementById('root')
-ReactDOM.render(<div><h3>Olá, React!</h3></div>, element)
+ReactDOM.render(<div><Primeiro/></div>, element)
