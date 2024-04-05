@@ -1,0 +1,22 @@
+.Card {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 15px;
+    background-color: #F77F87;
+    padding: 10px;
+}
+
+.Card .Title {
+    font-weight: 700;
+    padding: 10px 0;
+    border-bottom: 2px solid #000000;
+    text-align: center;
+}
+
+.Card .Content {
+    color: #000000;
+    padding: 10px 0;
+    font-weight: 100;
+    background-color: #FFFFFF;
+    text-align: center;
+}
